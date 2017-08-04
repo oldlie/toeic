@@ -4,3 +4,4 @@ TOEIC
 1.    [Environment - reading](09.md)
 1.    [Careers - Reading](11.md)
 1.    [Careers - Listening](12.md)
+1.    [Bank & Money - Listening](module8.md)
